@@ -1,0 +1,60 @@
+
+// bootstrap five css
+@import url("../css/bootstrap.min.css");
+// font awesome six css
+@import url("../fonts/css/all.min.css");
+// flag icons css
+@import url("../fonts/css/flag-icons.min.css");
+// custom icons css
+@import url("../fonts/css/charifund.css");
+// magnific popup css
+@import url("../css/magnific-popup.css");
+// aos css
+@import url("../css/aos.css");
+// nice select css
+@import url("../css/nice-select.css");
+// odometer css
+@import url("../css/odometer.css");
+// swiper slider css
+@import url("../css/swiper-bundle.min.css");
+
+// abstract styles
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+
+// base styles
+@import "./base/reset";
+@import "./base/typography";
+@import "./base/global";
+
+// component styles
+@import "./components/buttons";
+@import "./components/forms";
+@import "./components/preloader";
+
+// layout styles
+@import "./layout/header";
+@import "./layout/banner";
+@import "./layout/footer";
+
+// section styles
+@import "./sections/partner";
+@import "./sections/difference";
+@import "./sections/help";
+@import "./sections/cause-slider";
+@import "./sections/cta-section";
+@import "./sections/team";
+@import "./sections/community";
+@import "./sections/testimonial";
+@import "./sections/blog";
+@import "./sections/award";
+@import "./sections/faq";
+@import "./sections/overview";
+@import "./sections/donation";
+@import "./sections/counter";
+@import "./sections/event";
+@import "./sections/contact";
+@import "./sections/shop";
+@import "./sections/volunteer";
+@import "./sections/error";
+@import "./sections/coming-soon";
