@@ -34,7 +34,7 @@ export default function Footer() {
           <div className="footer-two__widget" data-aos="fade-up" data-aos-duration={1000}>
             <div className="footer-two__widget-logo">
               <a href="index.html">
-                <img src="assets/images/logo-light.png" alt="Image" />
+                <img src="images/novuslogo.png" alt="Image" />
               </a>
             </div>
             <div className="footer-two__widget-content">
