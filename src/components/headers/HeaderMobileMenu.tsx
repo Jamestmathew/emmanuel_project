@@ -8,7 +8,7 @@ export default function HeaderMobileMenu() {
       <div className="mobile-menu__header nav-fade">
         <div className="logo">
           <a href="/" aria-label="home page" title="logo">
-            <img src="assets/images/logo.png" alt="Image" />
+            <img src="images/novuslogo.png" alt="Image" />
           </a>
         </div>
         <button aria-label="close mobile menu" className="close-mobile-menu">
