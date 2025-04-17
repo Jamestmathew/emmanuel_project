@@ -7,7 +7,7 @@ export default function HeaderMobileMenu() {
     <nav className="mobile-menu__wrapper">
       <div className="mobile-menu__header nav-fade">
         <div className="logo">
-          <a href="index.html" aria-label="home page" title="logo">
+          <a href="/" aria-label="home page" title="logo">
             <img src="assets/images/logo.png" alt="Image" />
           </a>
         </div>
@@ -17,7 +17,7 @@ export default function HeaderMobileMenu() {
       </div>
       <div className="mobile-menu__list" />
       <div className="mobile-menu__cta nav-fade d-block d-md-none">
-        <a href="donate-us.html" className="btn--primary ">Donate Now <i className="fa-solid fa-arrow-right" /></a>
+        <a href="/" className="btn--primary ">Donate Now <i className="fa-solid fa-arrow-right" /></a>
       </div>
       <div className="mobile-menu__social social nav-fade">
         <a href="https://www.facebook.com/" target="_blank" aria-label="share us on facebook" title="facebook">
