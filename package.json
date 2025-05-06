@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
-  
+  "pages:build": "npx @cloudflare/next-on-pages",
+  "preview": "npm run pages:build && wrangler pages dev",
+  "deploy": "npm run pages:build && wrangler pages deploy",
   "dependencies": {
     "jquery": "^3.7.1",
     "next": "15.3.0",
@@ -17,6 +19,7 @@
     "sass": "^1.86.3"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.12",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "@types/jquery": "^3.5.32",
