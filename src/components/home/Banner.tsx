@@ -13,7 +13,7 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9 col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Start donating poor
+                  <span className="sub-title"><i className="icon-donation" />Start donating for vulnerable 
                     people</span>
                   <h1>Giving help <br />
                     To Those <span className="bottom-line">peoples</span>
@@ -37,7 +37,7 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9  col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Start donating poor
+                  <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
                     people</span>
                   <h1>Giving help <br />
                     To Those <span className="bottom-line">peoples</span>
@@ -61,7 +61,7 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9 col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Start donating poor
+                  <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
                     people</span>
                   <h1>Giving help <br />
                     To Those <span className="bottom-line">peoples</span>
@@ -79,13 +79,13 @@ export default function Banner() {
       </div>
       <div className="swiper-slide">
         <div className="banner-two__slider-single">
-          <div className="banner-two__slider-bg" data-background="assets/images/banner/banner-one-bg.png">
+          <div className="banner-two__slider-bg" data-background="assets/images/banner/banner-three-bg-bg.png">
           </div>
           <div className="container">
             <div className="row">
               <div className="col-12 col-md-9 col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Start donating poor
+                  <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
                     people</span>
                   <h1>Giving help <br />
                     To Those <span className="bottom-line">peoples</span>
