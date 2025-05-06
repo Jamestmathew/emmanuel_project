@@ -41,7 +41,7 @@ export default function Header() {
                                         </div>
                                         <div className="contact-content">
                                             <p>Call Us Now</p>
-                                            <a href="tel:01-793-7938">(+01)-793-7938 </a>
+                                            <a href="tel:+2348142431209">(+234)08142431209 </a>
                                         </div>
                                     </div>
                                 </div>

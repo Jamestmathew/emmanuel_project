@@ -20,16 +20,13 @@ export default function HeaderMobileMenu() {
         <a href="/" className="btn--primary ">Donate Now <i className="fa-solid fa-arrow-right" /></a>
       </div>
       <div className="mobile-menu__social social nav-fade">
-        <a href="https://www.facebook.com/" target="_blank" aria-label="share us on facebook" title="facebook">
+        <a href="https://www.facebook.com/novuscareng" target="_blank" aria-label="share us on facebook" title="facebook">
           <i className="fa-brands fa-facebook-f" />
         </a>
-        <a href="https://vimeo.com/" target="_blank" aria-label="share us on vimeo" title="vimeo">
-          <i className="fa-brands fa-vimeo-v" />
-        </a>
-        <a href="https://x.com/" target="_blank" aria-label="share us on twitter" title="twitter">
+        <a href="https://x.com/NovusFoundation" target="_blank" aria-label="share us on twitter" title="twitter">
           <i className="fa-brands fa-twitter" />
         </a>
-        <a href="https://www.linkedin.com/" target="_blank" aria-label="share us on linkedin" title="linkedin">
+        <a href="https://www.linkedin.com/company/novuscareng" target="_blank" aria-label="share us on linkedin" title="linkedin">
           <i className="fa-brands fa-linkedin-in" />
         </a>
       </div>
