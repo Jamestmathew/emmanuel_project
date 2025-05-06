@@ -35,7 +35,7 @@ export default function page() {
                   <img src="assets/images/sprade-base.png" alt="Image" className="base-img" />
               </div>
           </section>
-           <Team />
+           {/* <Team /> */}
 
       <Footer />
     </div>

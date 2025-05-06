@@ -19,7 +19,7 @@ export default function Volunteer() {
                 <div className="container">
                     <div className="row">
                         <div className="common-banner__content text-center">
-                            <span className="sub-title"><i className="icon-donation" />Start donating poor people</span>
+                            <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable  people</span>
                             <h2 className="title-animation">Become A Volunteer</h2>
                         </div>
                     </div>
@@ -42,11 +42,15 @@ export default function Volunteer() {
                                 <div className="section__content">
                                     <span className="sub-title"><i className="icon-donation" /> Become A Volunteer</span>
                                     <h2 className="title-animation">Volunteer Requirements</h2>
-                                    <p>
+                                    <div className="contact-content">
+                                            <p>Phone</p>
+                                            Call :  <a href="tel:2348142431209">(+234) 08142431209</a>
+                                        </div>
+                                    {/* <p>
                                         Call : 08140555425
-                                    </p>
+                                    </p> */}
                                 </div>
-                                <div className="warning">
+                                {/* <div className="warning">
                                     <div className="line"><i className="fa-solid fa-triangle-exclamation" /></div>
                                     <p><strong>Notice:</strong> Test mode is enabled. While in test mode no
                                         live
@@ -84,7 +88,7 @@ export default function Volunteer() {
                                         <li><i className="icon-circle-check" />Meet the Deadlines</li>
                                         <li><i className="icon-circle-check" />24/7 Customer Support</li>
                                     </ul>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                         <div className="col-12 col-xl-6">

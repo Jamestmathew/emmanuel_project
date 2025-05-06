@@ -20,13 +20,13 @@ export default function Contact() {
     <div className="container">
       <div className="row">
         <div className="common-banner__content text-center">
-          <span className="sub-title"><i className="icon-donation" />Start donating poor people</span>
+          <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable  people</span>
           <h2 className="title-animation">Contact Us</h2>
         </div>
       </div>
     </div>
     <div className="banner-bg">
-      <img src="assets/images/banner/banner-bg.png" alt="Image" />
+      <img src="assets/images/banner/contact.png" alt="Contact" />
     </div>
     <div className="shape">
       <img src="assets/images/shape.png" alt="Image" />
@@ -57,7 +57,10 @@ export default function Contact() {
                   <p>
                   {/* <a href="https://maps.app.goo.gl/Gr9pTNqz5FRNrjQw8" target="_blank"> */}
                     <a href="/" target="_blank">
-                      Apete, Ibadan, Oyo state, Nigeria.
+                      Resurrection Hospital building, Opawole Village, <br />
+                      Along Apete/Akufo Road, Ido Local goverment, Ibadan <br />
+                      Oyo State, Nigeria.
+
                     </a>
                   </p>
                 </div>
@@ -68,8 +71,10 @@ export default function Contact() {
                 </div>
                 <div className="content">
                   <h6>Phone</h6>
-                  <p><a href="tel:2348140555425"> 08140555425 </a></p>
-                  <p><a href="tel:2348140555425">08140555425</a></p>
+                  <p><a href="tel:2348142431209"> (+234) 08142431209 </a></p>
+                  <p><a href="tel:2349124940246"> (+234) 09124940246</a></p>
+                  <p><a href="tel:2348060022515"> (+234) 08060022515</a></p>
+                  <p><a href="tel:"> 1(872) 3023982</a></p>
                 </div>
               </div>
               <div className="contact-main__single">
@@ -78,8 +83,8 @@ export default function Contact() {
                 </div>
                 <div className="content">
                   <h6>Email</h6>
-                  <p><a href="mailto:support@novuscarefoundation.org">support@novuscarefoundation.org</a></p>
-                  <p><a href="mailto:support@novuscarefoundation.org">support@novuscarefoundation.org</a></p>
+                  <p><a href="mailto:support@novusvitacarefoundation.org">support@novusvitacarefoundation.org</a></p>
+                  <p><a href="mailto:admin@novusvitacarefoundation.org">admin@novusvitacarefoundation.org</a></p>
                 </div>
               </div>
               <div className="contact-main__single">
@@ -89,25 +94,22 @@ export default function Contact() {
                 <div className="content">
                   <h6>Social</h6>
                   <div className="social">
-                    <a href="https://www.facebook.com/" target="_blank" aria-label="share us on facebook" title="facebook">
+                    <a href="https://www.facebook.com/novuscareng" target="_blank" aria-label="share us on facebook" title="facebook">
                       <i className="fa-brands fa-facebook-f" />
                     </a>
-                    <a href="https://vimeo.com/" target="_blank" aria-label="share us on vimeo" title="vimeo">
-                      <i className="fa-brands fa-vimeo-v" />
-                    </a>
-                    <a href="https://x.com/" target="_blank" aria-label="share us on twitter" title="twitter">
+                    <a href="https://x.com/NovusFoundation" target="_blank" aria-label="share us on twitter" title="twitter">
                       <i className="fa-brands fa-twitter" />
                     </a>
-                    <a href="https://www.linkedin.com/" target="_blank" aria-label="share us on linkedin" title="linkedin">
+                    <a href="https://www.linkedin.com/company/novuscareng" target="_blank" aria-label="share us on linkedin" title="linkedin">
                       <i className="fa-brands fa-linkedin-in" />
                     </a>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="contact-main__thumb cta">
+            {/* <div className="contact-main__thumb cta">
               <img src="assets/images/contact-thumb.png" alt="Image" />
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="col-12 col-xl-6">

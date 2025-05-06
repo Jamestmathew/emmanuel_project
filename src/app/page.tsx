@@ -51,14 +51,14 @@ export default function Home() {
       {/* <Partner /> */}
       <Different />
       <Help />
-      <Cause />
+      {/* <Cause /> */}
       <Action />
-      <Team />
-      <Community />
-      <Testimoney />
-      <CauseTwo />
-      <DifferentTwo />
-      <Blog />
+      {/* <Team /> */}
+      {/* <Community /> */}
+      {/* <Testimoney /> */}
+      {/* <CauseTwo /> */}
+      {/* <DifferentTwo /> */}
+      {/* <Blog /> */}
       <Footer />
     </div>
   );

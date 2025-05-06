@@ -19,7 +19,7 @@ export default function page() {
                 <div className="container">
                     <div className="row">
                         <div className="common-banner__content text-center">
-                            <span className="sub-title"><i className="icon-donation" />Start donating poor people</span>
+                            <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable  people</span>
                             <h2 className="title-animation">About Us</h2>
                         </div>
                     </div>
@@ -46,7 +46,7 @@ export default function page() {
                                     <div className="thumb-lg thumb" data-aos="fade-left" data-aos-duration={1000}>
                                         <img src="assets/images/help/thumb-lg.png" alt="Image" />
                                         <div className="video-btn-wrapper">
-                                        {/* <a href="https://www.youtube.com/watch?v=RvreULjnzFo" target="_blank" title="video Player" className="open-video-popup"> */}
+                                            {/* <a href="https://www.youtube.com/watch?v=RvreULjnzFo" target="_blank" title="video Player" className="open-video-popup"> */}
                                             <a href="/" target="_blank" title="video Player" className="open-video-popup">
                                                 <i className="icon-play" />
                                             </a>
@@ -62,25 +62,25 @@ export default function page() {
                                         <img src="assets/images/help/grid.png" alt="Image" className="base-img" />
                                     </div>
                                     <div className="vertical-text">
-                                        <h5>We Give <span>Donations</span> to Poor People </h5>
+                                        <h5>We Give <span>Donations</span> to Vulnerable  People </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div className="col-12 col-lg-7 col-xxl-6">
                             <div className="help__content">
-                                <span className="sub-title"><i className="icon-donation" />Start donating poor
+                                <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
                                     people</span>
-                                <h2 className="title-animation">Learn more about 
-                                     <span>Novus </span> vita care Foundation
+                                <h2 className="title-animation">Learn more about
+                                    <span>Novus </span> vita care Foundation
                                 </h2>
                                 <p>we are dedicated to restoring dignity and hope to vulnerable individuals and communities across Nigeria. Our mission is simple yet powerful: to care, empower, and uplift. Through the provision of essential needs such as food, clothing, and skill-based training, we strive to create a society where no one is left behind.
 
-Founded on the principles of compassion, equity, and service, Novus Vita Care foundation reaches out to the most marginalised — including the homeless, widows, orphans, and the unemployed — offering not just immediate relief, but long-term support through empowerment initiatives. We believe that true change begins when people are not only helped but equipped with the tools to transform their own lives.
+                                    Founded on the principles of compassion, equity, and service, Novus Vita Care foundation reaches out to the most marginalised — including the homeless, widows, orphans, and the unemployed — offering not just immediate relief, but long-term support through empowerment initiatives. We believe that true change begins when people are not only helped but equipped with the tools to transform their own lives.
 
-Our programmes are community-driven and people-centred, tailored to meet the specific needs of those we serve. By collaborating with local partners, volunteers, and supporters, we are building a network of care that restores hope and paves the way for a more inclusive and resilient Nigeria.
+                                    Our programmes are community-driven and people-centred, tailored to meet the specific needs of those we serve. By collaborating with local partners, volunteers, and supporters, we are building a network of care that restores hope and paves the way for a more inclusive and resilient Nigeria.
 
-Join us in making a difference — one life, one meal, and one opportunity at a time.
+                                    Join us in making a difference — one life, one meal, and one opportunity at a time.
                                 </p>
                                 <div className="help__content-icon-group">
                                     <div className="help__content-icon">
@@ -105,7 +105,7 @@ Join us in making a difference — one life, one meal, and one opportunity at a 
                                 <div className="help__content-list">
                                     <ul>
                                         <li><i className="fa-solid fa-circle-check" /> Helped fund 3,265 Project powerful
-                                            corporate poor.
+                                            corporate Vulnerable .
                                         </li>
                                         <li><i className="fa-solid fa-circle-check" /> We give child a gift of a education
                                         </li>
@@ -122,7 +122,7 @@ Join us in making a difference — one life, one meal, and one opportunity at a 
                                         </div>
                                         <div className="contact-content">
                                             <p>Phone</p>
-                                            <a href="tel:8140555425">234 81 40555425</a>
+                                            <a href="tel:2348142431209">(+234) 08142431209</a>
                                         </div>
                                     </div>
                                 </div>
