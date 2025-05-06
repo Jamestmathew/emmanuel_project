@@ -7,7 +7,7 @@ export default function Different() {
     <div className="row justify-content-center">
       <div className="col-12 col-lg-10 col-xl-8">
         <div className="section__header text-center" data-aos="fade-up" data-aos-duration={1000}>
-          <span className="sub-title"><i className="icon-donation" />Start donating poor
+          <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
             people</span>
           <h2 className="title-animation">Charity With Difference</h2>
           <p>Join our monthly giving program to provide consistent support to our initiatives. Regular
@@ -31,7 +31,8 @@ export default function Different() {
                     </div>
                     <div className="difference__single-content">
                       <h5><a href="/">Child Education</a></h5>
-                      <p>Set up a secure and user-friendly online donation platform that accepts multiple
+                      <p>
+                       We support vulnerable children by providing access to quality education, learning materials, and inclusive, safe learning environments 
                       </p>
                     </div>
                   </div>
@@ -45,7 +46,8 @@ export default function Different() {
                     </div>
                     <div className="difference__single-content">
                       <h5><a href="/">Healthy Food</a></h5>
-                      <p>Set up a secure and user-friendly online donation platform that accepts multiple
+                      <p>
+                      We deliver nutritious food assistance to vulnerable individuals and communities affected by conflict, disasters, and economic hardship
                       </p>
                     </div>
                   </div>
@@ -59,7 +61,8 @@ export default function Different() {
                     </div>
                     <div className="difference__single-content">
                       <h5><a href="/">Medical Care</a></h5>
-                      <p>Set up a secure and user-friendly online donation platform that accepts multiple
+                      <p>
+                      Through mobile clinics and on-the-ground medical teams, we ensure vulnerable people receive essential treatments, medications, and emergency medical care
                       </p>
                     </div>
                   </div>
@@ -73,7 +76,8 @@ export default function Different() {
                     </div>
                     <div className="difference__single-content">
                       <h5><a href="/">Child Education</a></h5>
-                      <p>Set up a secure and user-friendly online donation platform that accepts multiple
+                      <p>
+                      We support vulnerable children by providing access to quality education, learning materials, and inclusive, safe learning environments 
                       </p>
                     </div>
                   </div>
@@ -87,7 +91,8 @@ export default function Different() {
                     </div>
                     <div className="difference__single-content">
                       <h5><a href="/">Healthy Food</a></h5>
-                      <p>Set up a secure and user-friendly online donation platform that accepts multiple
+                      <p>
+                      We deliver nutritious food assistance to vulnerable individuals and communities affected by conflict, disasters, and economic hardship
                       </p>
                     </div>
                   </div>
@@ -101,7 +106,7 @@ export default function Different() {
                     </div>
                     <div className="difference__single-content">
                       <h5><a href="/">Medical Care</a></h5>
-                      <p>Set up a secure and user-friendly online donation platform that accepts multiple
+                      <p>Through mobile clinics and on-the-ground medical teams, we ensure vulnerable people receive essential treatments, medications, and emergency medical care
                       </p>
                     </div>
                   </div>
