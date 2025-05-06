@@ -4,5 +4,8 @@
     "compatibility_flags": [
       "nodejs_compat"
     ],
+    "engines": {
+        "node": ">=18.18.0"
+    },
     "pages_build_output_dir": ".vercel/output/static"
 }
