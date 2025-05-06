@@ -33,8 +33,8 @@ export default function Footer() {
         <div className="col-12 col-md-6 col-xl-3">
           <div className="footer-two__widget" data-aos="fade-up" data-aos-duration={1000}>
             <div className="footer-two__widget-logo">
-              <a href="index.html">
-                <img src="images/novuslogo.png" alt="Image" />
+              <a href="/">
+                <img src="images/novus-footer.png" alt="Novus Logo" />
               </a>
             </div>
             <div className="footer-two__widget-content">
@@ -42,16 +42,13 @@ export default function Footer() {
                 safely. Choose from various.
               </p>
               <div className="social">
-                <a href="https://www.facebook.com/" target="_blank" aria-label="share us on facebook" title="facebook">
+                <a href="https://www.facebook.com/novuscareng" target="_blank" aria-label="share us on facebook" title="facebook">
                   <i className="fa-brands fa-facebook-f" />
                 </a>
-                <a href="https://vimeo.com/" target="_blank" aria-label="share us on vimeo" title="vimeo">
-                  <i className="fa-brands fa-vimeo-v" />
-                </a>
-                <a href="https://x.com/" target="_blank" aria-label="share us on twitter" title="twitter">
+                <a href="https://x.com/NovusFoundation" target="_blank" aria-label="share us on twitter" title="twitter">
                   <i className="fa-brands fa-twitter" />
                 </a>
-                <a href="https://www.linkedin.com/" target="_blank" aria-label="share us on linkedin" title="linkedin">
+                <a href="https://www.linkedin.com/company/novuscareng" target="_blank" aria-label="share us on linkedin" title="linkedin">
                   <i className="fa-brands fa-linkedin-in" />
                 </a>
               </div>
@@ -70,24 +67,15 @@ export default function Footer() {
             </div>
             <div className="footer-two__widget-content">
               <ul>
-                <li><a href="/"><i className="fa-solid fa-arrow-right" />About Us</a>
+                <li><a href="/about"><i className="fa-solid fa-arrow-right" />About Us</a>
                 </li>
-                <li><a href="/"><i className="fa-solid fa-arrow-right" />Our
-                    News</a>
-                </li>
-                <li><a href="/"><i className="fa-solid fa-arrow-right" />Our
-                    Campaign</a>
-                </li>
-                <li><a href="/"><i className="fa-solid fa-arrow-right" />FAQ</a></li>
-                <li><a href="/"><i className="fa-solid fa-arrow-right" />Get A
-                    Quote</a>
-                </li>
+                <li><a href="/volunteer"><i className="fa-solid fa-arrow-right" />Volunteer</a></li>
               </ul>
             </div>
           </div>
         </div>
         <div className="col-12 col-md-6 col-xl-3">
-          <div className="footer-two__widget footer-two__widget--alternate" data-aos="fade-up" data-aos-duration={1000} data-aos-delay={400}>
+          {/* <div className="footer-two__widget footer-two__widget--alternate" data-aos="fade-up" data-aos-duration={1000} data-aos-delay={400}>
             <div className="footer-two__widget-intro">
               <h5>Our Services</h5>
               <div className="line">
@@ -100,21 +88,17 @@ export default function Footer() {
               <ul>
                 <li><a href="/"><i className="fa-solid fa-arrow-right" />Our Causes</a>
                 </li>
-                <li><a href="/"><i className="fa-solid fa-arrow-right" />Education
-                    Support</a>
+                <li><a href="/"><i className="fa-solid fa-arrow-right" />Education Support</a>
                 </li>
-                <li><a href="/"><i className="fa-solid fa-arrow-right" />Our
-                    Campaign</a>
+                <li><a href="/"><i className="fa-solid fa-arrow-right" />Our Campaign</a>
                 </li>
-                <li><a href="/"><i className="fa-solid fa-arrow-right" />Food
-                    Support</a>
+                <li><a href="/"><i className="fa-solid fa-arrow-right" />Food Support</a>
                 </li>
-                <li><a href="/"><i className="fa-solid fa-arrow-right" />Health
-                    Support</a>
+                <li><a href="/"><i className="fa-solid fa-arrow-right" />Health Support</a>
                 </li>
               </ul>
             </div>
-          </div>
+          </div> */}
         </div>
         <div className="col-12 col-md-6 col-xl-3">
           <div className="footer-two__widget footer-two__widget--alternate" data-aos="fade-up" data-aos-duration={1000} data-aos-delay={600}>
@@ -128,14 +112,20 @@ export default function Footer() {
             </div>
             <div className="footer-two__widget-content footer-two__widget-content--contact">
               <ul>
-                <li><a href="https://maps.app.goo.gl/Gr9pTNqz5FRNrjQw8" target="_blank"><i className="fa-solid fa-location-dot" />
-                45, Apete, Sango Ibadan</a>
+              {/* href="https://maps.app.goo.gl/Gr9pTNqz5FRNrjQw8" */}
+                <li>
+                  <a href="" target="_blank">
+                    <i className="fa-solid fa-location-dot" />
+                    Resurrection Hospital building, Opawole Village, <br />
+                    Along Apete/Akufo Road, Ido Local goverment, Ibadan <br />
+                    Oyo State, Nigeria.
+                  </a>
                 </li>
-                <li><a href="tel:2305-587-3407"><i className="fa-solid fa-phone" />
-                  +234 40555425
+                <li><a href="tel:2348142431209"><i className="fa-solid fa-phone" />
+                  (+234) 08142431209
                 </a>
                 </li>
-                <li><a href="mailto:support@novuscarefoundation.org"><i className="fa-regular fa-envelope" />support@novuscarefoundation.org</a></li>
+                <li><a href="mailto:support@novusvitacarefoundation.org"><i className="fa-regular fa-envelope" />support@novusvitacarefoundation.org</a></li>
               </ul>
             </div>
           </div>

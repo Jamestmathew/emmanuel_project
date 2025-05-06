@@ -16,7 +16,7 @@ export default function Action() {
               <h3 className="title-animation">Become a volunteer?</h3>
             </div>
             <div className="cta-s">
-              <a href="/" aria-label="become a volunteer" title="become a volunteer" className="btn--tertiary">Contact Now</a>
+              <a href="/contact" aria-label="become a volunteer" title="become a volunteer" className="btn--tertiary">Contact Now</a>
             </div>
           </div>
           <div className="cta-img">
