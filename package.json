@@ -5,12 +5,13 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
+    "build:page": "npx @cloudflare/next-on-pages",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "pages:build": "npx @cloudflare/next-on-pages",
+    "preview": "npm run pages:build && wrangler pages dev",
+    "deploy": "npm run pages:build && wrangler pages deploy"
   },
-  "pages:build": "npx @cloudflare/next-on-pages",
-  "preview": "npm run pages:build && wrangler pages dev",
-  "deploy": "npm run pages:build && wrangler pages deploy",
   "dependencies": {
     "jquery": "^3.7.1",
     "next": "15.3.0",
