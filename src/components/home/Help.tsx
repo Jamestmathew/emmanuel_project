@@ -30,14 +30,14 @@ export default function Help() {
               <img src="assets/images/help/grid.png" alt="Image" className="base-img" />
             </div>
             <div className="vertical-text">
-              <h5>We Give <span>Donations</span> to Poor People </h5>
+              <h5>We Give <span>Donations</span> to Vulnerable  People </h5>
             </div>
           </div>
         </div>
       </div>
       <div className="col-12 col-lg-7 col-xxl-6">
         <div className="help__content">
-          <span className="sub-title"><i className="icon-donation" />Start donating poor
+          <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
             people</span>
           <h2 className="title-animation">Helping each other can
             make <span>world</span> better
@@ -69,7 +69,7 @@ export default function Help() {
           <div className="help__content-list">
             <ul>
               <li><i className="fa-solid fa-circle-check" /> Helped fund 3,265 Project powerful
-                corporate poor.
+                corporate Vulnerable .
               </li>
               <li><i className="fa-solid fa-circle-check" /> We give child a gift of a education
               </li>
@@ -86,7 +86,7 @@ export default function Help() {
               </div>
               <div className="contact-content">
                 <p>Phone</p>
-                <a href="tel:01-793-7938">+234 70 40555425</a>
+                <a href="tel:2348142431209">(+234) 08142431209</a>
               </div>
             </div>
           </div>
