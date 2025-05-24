@@ -39,13 +39,13 @@ export default function TopBar() {
                                           </select>
                                       </div>
                                       <div className="social">
-                                          <a href="https://www.facebook.com/novuscareng" target="_blank" aria-label="share us on facebook" title="facebook">
+                                          <a href="https://www.facebook.com/novusvitacare" target="_blank" aria-label="share us on facebook" title="facebook">
                                               <i className="fa-brands fa-facebook-f" />
                                           </a>
-                                          <a href="https://x.com/NovusFoundation" target="_blank" aria-label="share us on twitter" title="twitter">
+                                          <a href="https://x.com/novusvitacare" target="_blank" aria-label="share us on twitter" title="twitter">
                                               <i className="fa-brands fa-twitter" />
                                           </a>
-                                          <a href="https://www.linkedin.com/company/novuscareng" target="_blank" aria-label="share us on linkedin" title="linkedin">
+                                          <a href="https://www.linkedin.com/company/novusvitacare" target="_blank" aria-label="share us on linkedin" title="linkedin">
                                               <i className="fa-brands fa-linkedin-in" />
                                           </a>
                                       </div>

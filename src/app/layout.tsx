@@ -20,7 +20,7 @@ import "./assets/css/default-theme.css"
 
 export const metadata: Metadata = {
   title: "Novus Vita Care Foundation",
-  description: "Novus Vita Care Foundation",
+  description: "We are committed to restoring dignity and hope to vulnerable individuals and communities around the world. Our mission is clear: to care, empower, and uplift.",
 };
 
 export default function RootLayout({

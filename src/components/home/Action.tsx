@@ -12,7 +12,7 @@ export default function Action() {
               <i className="icon-spread-love" />
             </div>
             <div className="content">
-              <span>We give child a gift of a education</span>
+              <span>We give child a gift of education</span>
               <h3 className="title-animation">Become a volunteer?</h3>
             </div>
             <div className="cta-s">
@@ -44,7 +44,7 @@ export default function Action() {
               <i className="icon-spread-love" />
             </div>
             <div className="content">
-              <span>We give child a gift of a education</span>
+              <span>We give child a gift of education</span>
               <h3 className="title-animation">Make donation to us?</h3>
             </div>
             <div className="cta-s">

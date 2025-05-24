@@ -30,7 +30,7 @@ export default function Help() {
               <img src="assets/images/help/grid.png" alt="Image" className="base-img" />
             </div>
             <div className="vertical-text">
-              <h5>We Give <span>Donations</span> to Vulnerable  People </h5>
+              <h5>We  <span>support</span> those who are often forgotten </h5>
             </div>
           </div>
         </div>
@@ -42,9 +42,9 @@ export default function Help() {
           <h2 className="title-animation">Helping each other can
             make <span>world</span> better
           </h2>
-          <p>Volunteering offers opportunities to develop new skills and gain valuable
-            experience. This can include leadership, communication, project management, and teamwork
-            skills.
+          <p>
+            We are committed to restoring dignity and hope to vulnerable individuals and communities around the world. Our mission is clear: to care, empower, and uplift.
+
           </p>
           <div className="help__content-icon-group">
             <div className="help__content-icon">
@@ -68,13 +68,11 @@ export default function Help() {
           </div>
           <div className="help__content-list">
             <ul>
-              <li><i className="fa-solid fa-circle-check" /> Helped fund 3,265 Project powerful
-                corporate Vulnerable .
+              <li><i className="fa-solid fa-circle-check" /> Restoring Hope. Rebuilding Lives.
               </li>
-              <li><i className="fa-solid fa-circle-check" /> We give child a gift of a education
+              <li><i className="fa-solid fa-circle-check" /> From Vulnerability to Victory.
               </li>
-              <li><i className="fa-solid fa-circle-check" /> We help companies develop powerful
-                corporate social Responsibility,
+              <li><i className="fa-solid fa-circle-check" /> Empowering the Forgotten. Uplifting the Future.
               </li>
             </ul>
           </div>

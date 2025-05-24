@@ -38,17 +38,17 @@ export default function Footer() {
               </a>
             </div>
             <div className="footer-two__widget-content">
-              <p>Our secure online donation platform allows you to make contributions quickly and
-                safely. Choose from various.
+              <p>
+                Our foundation is built on compassion, equity, and service. We don’t just offer short-term relief — we focus on long-term transformation. 
               </p>
               <div className="social">
-                <a href="https://www.facebook.com/novuscareng" target="_blank" aria-label="share us on facebook" title="facebook">
+                <a href="https://www.facebook.com/novusvitacare" target="_blank" aria-label="share us on facebook" title="facebook">
                   <i className="fa-brands fa-facebook-f" />
                 </a>
-                <a href="https://x.com/NovusFoundation" target="_blank" aria-label="share us on twitter" title="twitter">
+                <a href="https://x.com/novusvitacare" target="_blank" aria-label="share us on twitter" title="twitter">
                   <i className="fa-brands fa-twitter" />
                 </a>
-                <a href="https://www.linkedin.com/company/novuscareng" target="_blank" aria-label="share us on linkedin" title="linkedin">
+                <a href="https://www.linkedin.com/company/novusvitacare" target="_blank" aria-label="share us on linkedin" title="linkedin">
                   <i className="fa-brands fa-linkedin-in" />
                 </a>
               </div>
@@ -114,7 +114,7 @@ export default function Footer() {
               <ul>
               {/* href="https://maps.app.goo.gl/Gr9pTNqz5FRNrjQw8" */}
                 <li>
-                  <a href="" target="_blank">
+                  <a href="" target="_blank" style={{textTransform:'capitalize'}}>
                     <i className="fa-solid fa-location-dot" />
                     Resurrection Hospital building, Opawole Village, <br />
                     Along Apete/Akufo Road, Ido Local goverment, Ibadan <br />

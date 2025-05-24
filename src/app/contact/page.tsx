@@ -20,7 +20,7 @@ export default function Contact() {
     <div className="container">
       <div className="row">
         <div className="common-banner__content text-center">
-          <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable  people</span>
+          <span className="sub-title"><i className="icon-donation" />Give the gift of Hope </span>
           <h2 className="title-animation">Contact Us</h2>
         </div>
       </div>
@@ -56,7 +56,7 @@ export default function Contact() {
                   <h6>Location</h6>
                   <p>
                   {/* <a href="https://maps.app.goo.gl/Gr9pTNqz5FRNrjQw8" target="_blank"> */}
-                    <a href="/" target="_blank">
+                    <a href="/" target="_blank" style={{textTransform:'capitalize'}}>
                       Resurrection Hospital building, Opawole Village, <br />
                       Along Apete/Akufo Road, Ido Local goverment, Ibadan <br />
                       Oyo State, Nigeria.
@@ -94,13 +94,13 @@ export default function Contact() {
                 <div className="content">
                   <h6>Social</h6>
                   <div className="social">
-                    <a href="https://www.facebook.com/novuscareng" target="_blank" aria-label="share us on facebook" title="facebook">
+                    <a href="https://www.facebook.com/novusvitacare" target="_blank" aria-label="share us on facebook" title="facebook">
                       <i className="fa-brands fa-facebook-f" />
                     </a>
-                    <a href="https://x.com/NovusFoundation" target="_blank" aria-label="share us on twitter" title="twitter">
+                    <a href="https://x.com/novusvitacare" target="_blank" aria-label="share us on twitter" title="twitter">
                       <i className="fa-brands fa-twitter" />
                     </a>
-                    <a href="https://www.linkedin.com/company/novuscareng" target="_blank" aria-label="share us on linkedin" title="linkedin">
+                    <a href="https://www.linkedin.com/company/novusvitacare" target="_blank" aria-label="share us on linkedin" title="linkedin">
                       <i className="fa-brands fa-linkedin-in" />
                     </a>
                   </div>

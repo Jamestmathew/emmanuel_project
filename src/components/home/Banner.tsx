@@ -13,7 +13,7 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9 col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Start donating for vulnerable 
+                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope
                     people</span>
                   <h1>Giving help <br />
                     To Those <span className="bottom-line">peoples</span>
@@ -37,7 +37,7 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9  col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
+                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope
                     people</span>
                   <h1>Giving help <br />
                     To Those <span className="bottom-line">peoples</span>
@@ -61,7 +61,7 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9 col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
+                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope
                     people</span>
                   <h1>Giving help <br />
                     To Those <span className="bottom-line">peoples</span>
@@ -85,7 +85,7 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9 col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
+                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope
                     people</span>
                   <h1>Giving help <br />
                     To Those <span className="bottom-line">peoples</span>

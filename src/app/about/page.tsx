@@ -19,7 +19,7 @@ export default function page() {
                 <div className="container">
                     <div className="row">
                         <div className="common-banner__content text-center">
-                            <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable  people</span>
+                            <span className="sub-title"><i className="icon-donation" />Give the gift of Hope </span>
                             <h2 className="title-animation">About Us</h2>
                         </div>
                     </div>
@@ -69,18 +69,22 @@ export default function page() {
                         </div>
                         <div className="col-12 col-lg-7 col-xxl-6">
                             <div className="help__content">
-                                <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
-                                    people</span>
+                                <span className="sub-title"><i className="icon-donation" />
+                                    Give the gift of Hope
+                                </span>
                                 <h2 className="title-animation">Learn more about
                                     <span>Novus </span> vita care Foundation
                                 </h2>
-                                <p>we are dedicated to restoring dignity and hope to vulnerable individuals and communities across Nigeria. Our mission is simple yet powerful: to care, empower, and uplift. Through the provision of essential needs such as food, clothing, and skill-based training, we strive to create a society where no one is left behind.
+                                <p>
+                                    At Novus Vita Care Foundation, we are committed to restoring dignity and hope to vulnerable individuals and communities around the world. <br /> 
+                                    Our mission is clear: to care, empower, and uplift. <br />
+            
+                                    We support those who are often forgotten — the homeless, widows, orphans, unemployed, neglected, and abused.  <br />
 
-                                    Founded on the principles of compassion, equity, and service, Novus Vita Care foundation reaches out to the most marginalised — including the homeless, widows, orphans, and the unemployed — offering not just immediate relief, but long-term support through empowerment initiatives. We believe that true change begins when people are not only helped but equipped with the tools to transform their own lives.
-
-                                    Our programmes are community-driven and people-centred, tailored to meet the specific needs of those we serve. By collaborating with local partners, volunteers, and supporters, we are building a network of care that restores hope and paves the way for a more inclusive and resilient Nigeria.
-
-                                    Join us in making a difference — one life, one meal, and one opportunity at a time.
+                                    By providing life’s essentials — like food, clothing, and safe shelter — we offer comfort and security when it's needed most. We also go further, offering skill-based training and empowerment programmes that help people rebuild their lives and become self-sufficient. <br />
+                                    Our foundation is built on compassion, equity, and service. We don’t just offer short-term relief — we focus on long-term transformation. From helping someone find their next meal to giving them a roof over their head and the skills to thrive, we work to ensure that no one is left behind.
+                                    Each of our programmes is tailored to the unique needs of the communities we serve. We work hand-in-hand with local partners, volunteers, and supporters to create lasting change. Together, we're building a global network of care that reaches the most marginalized and gives them the tools to rewrite their own stories.
+                                    Join us in turning pain into purpose, and struggle into strength —From Vulnerability to Victory." one person, one home, one future at a time.
                                 </p>
                                 <div className="help__content-icon-group">
                                     <div className="help__content-icon">
@@ -89,7 +93,7 @@ export default function page() {
                                         </div>
                                         <div className="content">
                                             <h6>Our Mission</h6>
-                                            <p>our mission is to nourish bodies, clothe hearts and inspire minds. We provide nutritious meals, essential clothing and vocational training to Nigeria’s most vulnerable—ensuring that every beneficiary not only survives but is empowered to thrive with dignity and hope.</p>
+                                            <p>To restore dignity and hope to vulnerable individuals—widows, widowers, orphans, the unemployed, and abuse survivors—through compassionate support, educational sponsorships, economic empowerment, and the provision of safe, nurturing spaces.</p>
                                         </div>
                                     </div>
                                     <div className="help__content-icon">
@@ -98,19 +102,20 @@ export default function page() {
                                         </div>
                                         <div className="content">
                                             <h6>Our Vision</h6>
-                                            <p>We envision a Nigeria where no one is left behind: a country in which every individual enjoys reliable access to food, clothing and life‑changing skills, unlocking their full potential and building stronger, more resilient communities for generations to come.</p>
+                                            <p>
+                                                A world where every vulnerable soul finds refuge, every child has access to education, and every individual is empowered to rebuild a life of purpose, dignity, and hope.<br /> 
+                                                Restoring Hope. Rebuilding Lives.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="help__content-list">
                                     <ul>
-                                        <li><i className="fa-solid fa-circle-check" /> Helped fund 3,265 Project powerful
-                                            corporate Vulnerable .
+                                        <li><i className="fa-solid fa-circle-check" /> From Vulnerability to Victory.
                                         </li>
-                                        <li><i className="fa-solid fa-circle-check" /> We give child a gift of a education
+                                        <li><i className="fa-solid fa-circle-check" /> Hope Lives Here.
                                         </li>
-                                        <li><i className="fa-solid fa-circle-check" /> We help companies develop powerful
-                                            corporate social Responsibility,
+                                        <li><i className="fa-solid fa-circle-check" /> Empowering the Forgotten. Uplifting the Future.
                                         </li>
                                     </ul>
                                 </div>

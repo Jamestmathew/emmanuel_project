@@ -7,11 +7,12 @@ export default function Different() {
     <div className="row justify-content-center">
       <div className="col-12 col-lg-10 col-xl-8">
         <div className="section__header text-center" data-aos="fade-up" data-aos-duration={1000}>
-          <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
-            people</span>
+          <span className="sub-title"><i className="icon-donation" />
+            Give the gift of Hope to the people
+          </span>
           <h2 className="title-animation">Charity With Difference</h2>
-          <p>Join our monthly giving program to provide consistent support to our initiatives. Regular
-            contributions, no matter the size, help us plan and sustain long-term projects.
+          <p>
+              Restore dignity and hope to vulnerable individuals
           </p>
         </div>
       </div>
