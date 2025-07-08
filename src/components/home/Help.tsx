@@ -37,16 +37,20 @@ export default function Help() {
       </div>
       <div className="col-12 col-lg-7 col-xxl-6">
         <div className="help__content">
-          <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
-            people</span>
-          <h2 className="title-animation">Helping each other can
-            make <span>world</span> better
+          {/* <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable 
+            people</span> */}
+          <h2 className="title-animation">
+
+            Empowering the Forgotten, <span> Uplifting </span> the Future.
+            {/* Helping each other can
+            make <span>world</span> better */}
           </h2>
           <p>
-            We are committed to restoring dignity and hope to vulnerable individuals and communities around the world. Our mission is clear: to care, empower, and uplift.
+            We are committed to restoring dignity and hope to vulnerable individuals and communities around the world. <br />
+            Our mission is clear: to care, empower, and uplift.
 
           </p>
-          <div className="help__content-icon-group">
+          {/* <div className="help__content-icon-group">
             <div className="help__content-icon">
               <div className="thumb">
                 <i className="icon-make-donation" />
@@ -65,7 +69,7 @@ export default function Help() {
                 <p>Raising awareness about the charity's mission and cause.</p>
               </div>
             </div>
-          </div>
+          </div> */}
           <div className="help__content-list">
             <ul>
               <li><i className="fa-solid fa-circle-check" /> Restoring Hope. Rebuilding Lives.
@@ -77,14 +81,14 @@ export default function Help() {
             </ul>
           </div>
           <div className="help__content-cta cta">
-            <a href="/" aria-label="more about us" title="about us" className="btn--primary">More About Us</a>
+            <a href="/about" aria-label="more about us" title="about us" className="btn--primary">About Us</a>
             <div className="contact-btn">
               <div className="contact-icon">
                 <i className="icon-phone" />
               </div>
               <div className="contact-content">
                 <p>Phone</p>
-                <a href="tel:2348142431209">(+234) 08142431209</a>
+                <a href="tel:2349124940246">(+234) 09124940246</a>
               </div>
             </div>
           </div>

@@ -12,8 +12,8 @@ export default function Action() {
               <i className="icon-spread-love" />
             </div>
             <div className="content">
-              <span>We give child a gift of education</span>
-              <h3 className="title-animation">Become a volunteer?</h3>
+              <span>Give the gift of Hope</span>
+              <h3 className="title-animation">Join us as a volunteer</h3>
             </div>
             <div className="cta-s">
               <a href="/contact" aria-label="become a volunteer" title="become a volunteer" className="btn--tertiary">Contact Now</a>
@@ -44,11 +44,11 @@ export default function Action() {
               <i className="icon-spread-love" />
             </div>
             <div className="content">
-              <span>We give child a gift of education</span>
-              <h3 className="title-animation">Make donation to us?</h3>
+              <span>Give the gift of hope</span>
+              <h3 className="title-animation">Restoring Hope. Rebuilding Lives.</h3>
             </div>
             <div className="cta-s">
-              <a href="/" aria-label="make a donation" title="make a donation" className="btn--primary">Donate Now</a>
+              <a href="/" aria-label="make a donation" title="make a donation" className="btn--primary">Give hope</a>
             </div>
           </div>
           <div className="cta-img">

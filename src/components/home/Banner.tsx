@@ -13,15 +13,14 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9 col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope
-                    people</span>
+                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope </span>
                   <h1>Giving help <br />
-                    To Those <span className="bottom-line">peoples</span>
-                    Who Need It.
+                    to those <span className="bottom-line">Who</span>
+                     need it.
                   </h1>
                   <div className="banner__content-cta cta">
-                    <a href="/" aria-label="about us" title="about us" className="btn--tertiary">Discover More <i className="fa-solid fa-arrow-right" /></a>
-                    <a href="/" aria-label="contact us" title="contact us" className="btn--primary">Donate !<i className="fa-solid fa-arrow-right" /></a>
+                    <a href="/about" aria-label="about us" title="about us" className="btn--tertiary">Discover More <i className="fa-solid fa-arrow-right" /></a>
+                    <a href="/contact" aria-label="contact us" title="contact us" className="btn--primary">Give Hope<i className="fa-solid fa-arrow-right" /></a>
                   </div>
                 </div>
               </div>
@@ -37,15 +36,15 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9  col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope
-                    people</span>
-                  <h1>Giving help <br />
-                    To Those <span className="bottom-line">peoples</span>
-                    Who Need It.
+                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope</span>
+                  <h1>
+                    {/* Giving help <br /> */}
+                    Empowering the forgotten, <span className="bottom-line"> Uplifting </span>
+                    the Future.
                   </h1>
-                  <div className="banner__content-cta cta">
-                    <a href="/" aria-label="about us" title="about us" className="btn--tertiary">Discover More <i className="fa-solid fa-arrow-right" /></a>
-                    <a href="/" aria-label="contact us" title="contact us" className="btn--primary">Donate ! <i className="fa-solid fa-arrow-right" /></a>
+                 <div className="banner__content-cta cta">
+                    <a href="/about" aria-label="about us" title="about us" className="btn--tertiary">Discover More <i className="fa-solid fa-arrow-right" /></a>
+                    <a href="/contact" aria-label="contact us" title="contact us" className="btn--primary">Give Hope<i className="fa-solid fa-arrow-right" /></a>
                   </div>
                 </div>
               </div>
@@ -61,15 +60,14 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9 col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope
-                    people</span>
-                  <h1>Giving help <br />
-                    To Those <span className="bottom-line">peoples</span>
-                    Who Need It.
+                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope</span>
+                  <h1>
+                    {/* Giving help <br /> */}
+                    from vulnerability to  <span className="bottom-line"> Victory.</span>
                   </h1>
                   <div className="banner__content-cta cta">
-                    <a href="/" aria-label="about us" title="about us" className="btn--tertiary">Discover More <i className="fa-solid fa-arrow-right" /></a>
-                    <a href="/" aria-label="contact us" title="contact us" className="btn--primary">Donate ! <i className="fa-solid fa-arrow-right" /></a>
+                    <a href="/about" aria-label="about us" title="about us" className="btn--tertiary">Discover More <i className="fa-solid fa-arrow-right" /></a>
+                    <a href="/contact" aria-label="contact us" title="contact us" className="btn--primary">Give Hope<i className="fa-solid fa-arrow-right" /></a>
                   </div>
                 </div>
               </div>
@@ -85,15 +83,15 @@ export default function Banner() {
             <div className="row">
               <div className="col-12 col-md-9 col-lg-7 col-xxl-6">
                 <div className="banner-two__slider-content">
-                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope
-                    people</span>
-                  <h1>Giving help <br />
-                    To Those <span className="bottom-line">peoples</span>
-                    Who Need It.
+                  <span className="sub-title"><i className="icon-donation" />Give the gift of Hope</span>
+                  <h1>
+                    {/* Giving help <br /> */}
+                    We are committed to <span className="bottom-line">restoring</span>
+                    dignity and hope.
                   </h1>
                   <div className="banner__content-cta cta">
-                    <a href="/" aria-label="about us" title="about us" className="btn--tertiary">Discover More <i className="fa-solid fa-arrow-right" /></a>
-                    <a href="/" aria-label="contact us" title="contact us" className="btn--primary">Donnate !<i className="fa-solid fa-arrow-right" /></a>
+                    <a href="/about" aria-label="about us" title="about us" className="btn--tertiary">Discover More <i className="fa-solid fa-arrow-right" /></a>
+                    <a href="/contact" aria-label="contact us" title="contact us" className="btn--primary">Give Hope<i className="fa-solid fa-arrow-right" /></a>
                   </div>
                 </div>
               </div>

@@ -1,3 +1,5 @@
+'use client'
+
 import React from 'react'
 
 export default function Footer() {
@@ -121,8 +123,8 @@ export default function Footer() {
                     Oyo State, Nigeria.
                   </a>
                 </li>
-                <li><a href="tel:2348142431209"><i className="fa-solid fa-phone" />
-                  (+234) 08142431209
+                <li><a href="tel:2349124940246"><i className="fa-solid fa-phone" />
+                  (+234) 09124940246
                 </a>
                 </li>
                 <li><a href="mailto:support@novusvitacarefoundation.org"><i className="fa-regular fa-envelope" />support@novusvitacarefoundation.org</a></li>

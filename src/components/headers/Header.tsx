@@ -41,7 +41,7 @@ export default function Header() {
                                         </div>
                                         <div className="contact-content">
                                             <p>Call Us Now</p>
-                                            <a href="tel:+2348142431209">(+234)08142431209 </a>
+                                            <a href="tel:+2349124940246">(+234)09124940246 </a>
                                         </div>
                                     </div>
                                 </div>
@@ -52,7 +52,7 @@ export default function Header() {
                                                 <i className="fa-solid fa-magnifying-glass" />
                                             </button>
                                         </div>
-                                        <a href="/" className="btn--primary d-none d-md-flex">Donate Now <i className="fa-solid fa-arrow-right" /></a>
+                                        <a href="/" className="btn--primary d-none d-md-flex">Give Hope <i className="fa-solid fa-arrow-right" /></a>
                                     </div>
                                     <button className="open-offcanvas-nav d-flex d-xl-none" aria-label="toggle mobile menu" title="open offcanvas menu">
                                         <span className="icon-bar top-bar" />

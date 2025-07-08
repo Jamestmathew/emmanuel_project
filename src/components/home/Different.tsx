@@ -7,9 +7,9 @@ export default function Different() {
     <div className="row justify-content-center">
       <div className="col-12 col-lg-10 col-xl-8">
         <div className="section__header text-center" data-aos="fade-up" data-aos-duration={1000}>
-          <span className="sub-title"><i className="icon-donation" />
+          {/* <span className="sub-title"><i className="icon-donation" />
             Give the gift of Hope to the people
-          </span>
+          </span> */}
           <h2 className="title-animation">Charity With Difference</h2>
           <p>
               Restore dignity and hope to vulnerable individuals
@@ -31,9 +31,9 @@ export default function Different() {
                       <i className="icon-education" />
                     </div>
                     <div className="difference__single-content">
-                      <h5><a href="/">Child Education</a></h5>
+                      <h5><a href="/"> Education </a></h5>
                       <p>
-                       We support vulnerable children by providing access to quality education, learning materials, and inclusive, safe learning environments 
+                       We support vulnerable by providing access to quality education, learning materials, and inclusive, safe learning environments 
                       </p>
                     </div>
                   </div>
@@ -48,7 +48,7 @@ export default function Different() {
                     <div className="difference__single-content">
                       <h5><a href="/">Healthy Food</a></h5>
                       <p>
-                      We deliver nutritious food assistance to vulnerable individuals and communities affected by conflict, disasters, and economic hardship
+                      We deliver nutritious food assistance to vulnerable individuals and communities affected by conflict, disasters, and economic hardship.
                       </p>
                     </div>
                   </div>
@@ -63,7 +63,8 @@ export default function Different() {
                     <div className="difference__single-content">
                       <h5><a href="/">Medical Care</a></h5>
                       <p>
-                      Through mobile clinics and on-the-ground medical teams, we ensure vulnerable people receive essential treatments, medications, and emergency medical care
+                      {/* Through mobile clinics and on-the-ground medical teams, we ensure vulnerable people receive essential treatments, medications, and emergency medical care */}
+                      We ensure individual received eseential treatments, medications and provides emergency medical care to the needs.
                       </p>
                     </div>
                   </div>
@@ -76,9 +77,9 @@ export default function Different() {
                       <i className="icon-education" />
                     </div>
                     <div className="difference__single-content">
-                      <h5><a href="/">Child Education</a></h5>
+                      <h5><a href="/"> Education </a></h5>
                       <p>
-                      We support vulnerable children by providing access to quality education, learning materials, and inclusive, safe learning environments 
+                        We support vulnerable by providing access to quality education, learning materials, and inclusive, safe learning environments 
                       </p>
                     </div>
                   </div>
@@ -93,7 +94,7 @@ export default function Different() {
                     <div className="difference__single-content">
                       <h5><a href="/">Healthy Food</a></h5>
                       <p>
-                      We deliver nutritious food assistance to vulnerable individuals and communities affected by conflict, disasters, and economic hardship
+                        We deliver nutritious food assistance to vulnerable individuals and communities affected by conflict, disasters, and economic hardship.
                       </p>
                     </div>
                   </div>
@@ -107,7 +108,8 @@ export default function Different() {
                     </div>
                     <div className="difference__single-content">
                       <h5><a href="/">Medical Care</a></h5>
-                      <p>Through mobile clinics and on-the-ground medical teams, we ensure vulnerable people receive essential treatments, medications, and emergency medical care
+                      <p>
+                        We ensure individual received eseential treatments, medications and provides emergency medical care to the needs.
                       </p>
                     </div>
                   </div>

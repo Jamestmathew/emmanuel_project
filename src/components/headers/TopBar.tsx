@@ -13,7 +13,7 @@ export default function TopBar() {
                                       <ul className="topbar__list">
                                           <li><a href="mailto:support@novusvitacarefoundation.org"><i className="fa-regular fa-envelope" />support@novusvitacarefoundation.org</a>
                                           </li>
-                                          <li><a href="tel:2348142431209"><i className="fa-solid fa-phone" />08142431209</a>
+                                          <li><a href="tel:2348142431209"><i className="fa-solid fa-phone" />09124940246</a>
                                           </li>
                                       </ul>
                                   </div>
@@ -28,10 +28,10 @@ export default function TopBar() {
                               <div className="col-12 col-lg-6 col-xxl-4">
                                   <div className="topbar__items justify-content-end">
                                       <div className="select-currency">
-                                          <select name="currency" className="currency-select select">
+                                          {/* <select name="currency" className="currency-select select">
                                               <option value="usd">USD</option>
                                               <option value="gbp">NGN</option>
-                                          </select>
+                                          </select> */}
                                       </div>
                                       <div className="select-country">
                                           <select name="country" className="country-select select">
