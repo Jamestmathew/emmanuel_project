@@ -1,3 +1,5 @@
+'use client'
+
 import Footer from '@/components/footers/Footer'
 import MainHeader from '@/components/headers/MainHeader'
 import Head from 'next/head'
@@ -62,29 +64,37 @@ export default function page() {
                                         <img src="assets/images/help/grid.png" alt="Image" className="base-img" />
                                     </div>
                                     <div className="vertical-text">
-                                        <h5>We Give <span>Donations</span> to Vulnerable  People </h5>
+                                        <h5 style={{}}> 
+                                            Restoring <span>dignity</span> and hope to <span>vulnerable</span> individuals
+                                        </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div className="col-12 col-lg-7 col-xxl-6">
                             <div className="help__content">
-                                <span className="sub-title"><i className="icon-donation" />
+                                {/* <span className="sub-title"><i className="icon-donation" />
                                     Give the gift of Hope
-                                </span>
-                                <h2 className="title-animation">Learn more about
-                                    <span>Novus </span> vita care Foundation
+                                </span> */}
+                                <h2 className="title-animation">
+                                    <span style={{textTransform:'capitalize'}}>Novus </span> vita care Foundation
                                 </h2>
                                 <p>
                                     At Novus Vita Care Foundation, we are committed to restoring dignity and hope to vulnerable individuals and communities around the world. <br /> 
-                                    Our mission is clear: to care, empower, and uplift. <br />
-            
-                                    We support those who are often forgotten — the homeless, widows, orphans, unemployed, neglected, and abused.  <br />
 
-                                    By providing life’s essentials — like food, clothing, and safe shelter — we offer comfort and security when it's needed most. We also go further, offering skill-based training and empowerment programmes that help people rebuild their lives and become self-sufficient. <br />
+                                    <span style={{fontSize:16, fontWeight:'bold'}}>Our mission is clear: <span style={{color:'black'}}>to care, empower, and uplift.</span> </span> <br />
+            
+                                    We support those who are often forgotten — the homeless, widows, orphans, unemployed, neglected, and abused by providing life’s essentials — like food, clothing, and safe shelter. We offer comfort and security when it's needed most.  <br />
+                                    
+                                    We also go further by offering skill-based training and empowerment programmes that help people rebuild their lives and become self-sufficient. <br />
                                     Our foundation is built on compassion, equity, and service. We don’t just offer short-term relief — we focus on long-term transformation. From helping someone find their next meal to giving them a roof over their head and the skills to thrive, we work to ensure that no one is left behind.
-                                    Each of our programmes is tailored to the unique needs of the communities we serve. We work hand-in-hand with local partners, volunteers, and supporters to create lasting change. Together, we're building a global network of care that reaches the most marginalized and gives them the tools to rewrite their own stories.
-                                    Join us in turning pain into purpose, and struggle into strength —From Vulnerability to Victory." one person, one home, one future at a time.
+                                    Each of our programmes is tailored to the unique needs of the communities we serve. <br />
+
+                                    We work hand-in-hand with local partners, volunteers, and supporters to create lasting change. Together, we're building a global network of care that reaches the most marginalized and gives them the tools to rewrite their own stories. <br />
+
+                                    Join us in turning pain into purpose, and struggle into strength <br />
+                                    <span>From Vulnerability to Victory</span> <br />
+                                    <span style={{fontWeight:'bolder', color:'black'}}>One person, one home, one future at a time.</span>
                                 </p>
                                 <div className="help__content-icon-group">
                                     <div className="help__content-icon">
@@ -93,7 +103,7 @@ export default function page() {
                                         </div>
                                         <div className="content">
                                             <h6>Our Mission</h6>
-                                            <p>To restore dignity and hope to vulnerable individuals—widows, widowers, orphans, the unemployed, and abuse survivors—through compassionate support, educational sponsorships, economic empowerment, and the provision of safe, nurturing spaces.</p>
+                                            <p style={{fontWeight:'bolder', color:'black'}}>To restore dignity and hope to vulnerable individuals — widows, widowers, orphans, the unemployed, and abuse survivors—through compassionate support, educational sponsorships, economic empowerment, and the provision of safe, nurturing spaces.</p>
                                         </div>
                                     </div>
                                     <div className="help__content-icon">
@@ -102,7 +112,7 @@ export default function page() {
                                         </div>
                                         <div className="content">
                                             <h6>Our Vision</h6>
-                                            <p>
+                                            <p style={{fontWeight:'bolder', color:'black'}}>
                                                 A world where every vulnerable soul finds refuge, every child has access to education, and every individual is empowered to rebuild a life of purpose, dignity, and hope.<br /> 
                                                 Restoring Hope. Rebuilding Lives.
                                             </p>
@@ -110,12 +120,12 @@ export default function page() {
                                     </div>
                                 </div>
                                 <div className="help__content-list">
-                                    <ul>
-                                        <li><i className="fa-solid fa-circle-check" /> From Vulnerability to Victory.
+                                    <ul style={{fontSize:36}}>
+                                        <li style={{fontSize:24}}><i className="fa-solid fa-circle-check" /> From Vulnerability to Victory.
                                         </li>
-                                        <li><i className="fa-solid fa-circle-check" /> Hope Lives Here.
+                                        <li style={{fontSize:24}}><i className="fa-solid fa-circle-check" /> Hope Lives Here.
                                         </li>
-                                        <li><i className="fa-solid fa-circle-check" /> Empowering the Forgotten. Uplifting the Future.
+                                        <li style={{fontSize:24}}><i className="fa-solid fa-circle-check" /> Empowering the Forgotten. Uplifting the Future.
                                         </li>
                                     </ul>
                                 </div>
@@ -127,7 +137,7 @@ export default function page() {
                                         </div>
                                         <div className="contact-content">
                                             <p>Phone</p>
-                                            <a href="tel:2348142431209">(+234) 08142431209</a>
+                                            <a href="tel:2349124940246">(+234) 09124940246</a>
                                         </div>
                                     </div>
                                 </div>

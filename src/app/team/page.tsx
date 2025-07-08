@@ -1,3 +1,5 @@
+'use client'
+
 import Footer from '@/components/footers/Footer'
 import MainHeader from '@/components/headers/MainHeader'
 import Team from '@/components/home/Team'
@@ -20,7 +22,7 @@ export default function page() {
               <div className="container">
                   <div className="row">
                       <div className="common-banner__content text-center">
-                          <span className="sub-title"><i className="icon-donation" />Start donating poor people</span>
+                          {/* <span className="sub-title"><i className="icon-donation" />Start donating poor people</span> */}
                           <h2 className="title-animation">Our Team</h2>
                       </div>
                   </div>
@@ -35,7 +37,7 @@ export default function page() {
                   <img src="assets/images/sprade-base.png" alt="Image" className="base-img" />
               </div>
           </section>
-           {/* <Team /> */}
+          <Team />
 
       <Footer />
     </div>

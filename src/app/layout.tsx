@@ -5,18 +5,19 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./assets/css/main.css"
 import "./assets/css/responsive.css"
 import "./assets/css/default-theme.css"
+import Script from "next/script";
 
 
 
-// const geistSans = Geist({
-//   variable: "--font-geist-sans",
-//   subsets: ["latin"],
-// });
+const geistSans = Geist({
+  variable: "--font-geist-sans",
+  subsets: ["latin"],
+});
 
-// const geistMono = Geist_Mono({
-//   variable: "--font-geist-mono",
-//   subsets: ["latin"],
-// });
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
 
 export const metadata: Metadata = {
   title: "Novus Vita Care Foundation",
@@ -30,13 +31,44 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" />
-      <link
-         href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Outfit:wght@100..900&display=swap"
-         rel="stylesheet"></link>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link precedence="default"
+          href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Outfit:wght@100..900&display=swap"
+          rel="stylesheet" />
+        <Script src="assets/js/jquery-3.7.1.min.js" />
+
+        <Script src="assets/js/bootstrap.bundle.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/jquery.nice-select.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/jquery.magnific-popup.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/swiper-bundle.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/viewport.jquery.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/odometer.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/vanilla-tilt.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/aos.js" strategy="afterInteractive" />
+
+
+        <Script src="assets/js/SplitText.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/ScrollToPlugin.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/ScrollTrigger.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/gsap.min.js" strategy="afterInteractive" />
+
+        <Script src="assets/js/custom.js" strategy="afterInteractive" />
+      </head>
+
       <body
-        // className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
       </body>

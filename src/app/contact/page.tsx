@@ -1,3 +1,5 @@
+'use client'
+
 import Footer from '@/components/footers/Footer'
 import MainHeader from '@/components/headers/MainHeader'
 import Head from 'next/head'
@@ -71,10 +73,11 @@ export default function Contact() {
                 </div>
                 <div className="content">
                   <h6>Phone</h6>
-                  <p><a href="tel:2348142431209"> (+234) 08142431209 </a></p>
                   <p><a href="tel:2349124940246"> (+234) 09124940246</a></p>
-                  <p><a href="tel:2348060022515"> (+234) 08060022515</a></p>
-                  <p><a href="tel:"> 1(872) 3023982</a></p>
+                  <p><a href="tel:2348142431209"> (+234) 08142431209 </a></p>
+                  <p><a href="tel:+17735568577"> +1 (773) 556‑8577</a></p>
+                  <p><a href="tel:2348060022514"> (+234) 08060022514</a></p>
+                  <p><a href="tel:+18723023982"> 1(872) 3023982</a></p>
                 </div>
               </div>
               <div className="contact-main__single">

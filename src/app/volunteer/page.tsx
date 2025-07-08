@@ -1,3 +1,5 @@
+'use client'
+
 import Footer from '@/components/footers/Footer'
 import MainHeader from '@/components/headers/MainHeader'
 import Head from 'next/head'
@@ -41,10 +43,10 @@ export default function Volunteer() {
                             <div className="volunteer__content">
                                 <div className="section__content">
                                     <span className="sub-title"><i className="icon-donation" /> Become A Volunteer</span>
-                                    <h2 className="title-animation">Volunteer Requirements</h2>
+                                    <h2 className="title-animation">Join us as a volunteer to uplifting the less previledge</h2>
                                     <div className="contact-content">
                                             <p>Phone</p>
-                                            Call :  <a href="tel:2348142431209">(+234) 08142431209</a>
+                                            Call :  <a href="tel:2349124940246">(+234) 09124940246</a>
                                         </div>
                                     {/* <p>
                                         Call : 08140555425

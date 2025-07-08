@@ -126,7 +126,7 @@ body {
   color: var(--template-color);
   background-color: var(--template-bg);
   overflow-x: clip;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 body::-webkit-scrollbar {
   width: 5px;
