@@ -5,8 +5,8 @@
       "nodejs_compat_v2",
       "nodejs_compat"
     ],
-    "engines": {
-        "node": ">=18.18.0"
-    },
+    // "engines": {
+    //     "node": ">=18.18.0"
+    // },
     "pages_build_output_dir": ".vercel/output/static"
 }
