@@ -1,5 +1,3 @@
-'use client'
-
 import Footer from '@/components/footers/Footer'
 import MainHeader from '@/components/headers/MainHeader'
 import Head from 'next/head'
@@ -21,19 +19,19 @@ export default function Volunteer() {
                 <div className="container">
                     <div className="row">
                         <div className="common-banner__content text-center">
-                            <span className="sub-title"><i className="icon-donation" />Start donating Vulnerable  people</span>
+                            <span className="sub-title"><i className="icon-donation" />Start donating poor people</span>
                             <h2 className="title-animation">Become A Volunteer</h2>
                         </div>
                     </div>
                 </div>
                 <div className="banner-bg">
-                    <img src="assets/images/banner/banner-bg.png" alt="Image" />
+                    <img src="/assets/images/banner/banner-bg.png" alt="Image" />
                 </div>
                 <div className="shape">
-                    <img src="assets/images/shape.png" alt="Image" />
+                    <img src="/assets/images/shape.png" alt="Image" />
                 </div>
                 <div className="sprade" data-aos="zoom-in" data-aos-duration={1000}>
-                    <img src="assets/images/sprade-base.png" alt="Image" className="base-img" />
+                    <img src="/assets/images/sprade-base.png" alt="Image" className="base-img" />
                 </div>
             </section>
             <section className="volunteer">
@@ -43,16 +41,12 @@ export default function Volunteer() {
                             <div className="volunteer__content">
                                 <div className="section__content">
                                     <span className="sub-title"><i className="icon-donation" /> Become A Volunteer</span>
-                                    <h2 className="title-animation">Join us as a volunteer to uplifting the less previledge</h2>
-                                    <div className="contact-content">
-                                            <p>Phone</p>
-                                            Call :  <a href="tel:2349124940246">(+234) 09124940246</a>
-                                        </div>
-                                    {/* <p>
+                                    <h2 className="title-animation">Volunteer Requirements</h2>
+                                    <p>
                                         Call : 08140555425
-                                    </p> */}
+                                    </p>
                                 </div>
-                                {/* <div className="warning">
+                                <div className="warning">
                                     <div className="line"><i className="fa-solid fa-triangle-exclamation" /></div>
                                     <p><strong>Notice:</strong> Test mode is enabled. While in test mode no
                                         live
@@ -90,7 +84,7 @@ export default function Volunteer() {
                                         <li><i className="icon-circle-check" />Meet the Deadlines</li>
                                         <li><i className="icon-circle-check" />24/7 Customer Support</li>
                                     </ul>
-                                </div> */}
+                                </div>
                             </div>
                         </div>
                         <div className="col-12 col-xl-6">
